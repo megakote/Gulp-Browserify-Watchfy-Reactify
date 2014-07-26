@@ -1,0 +1,18 @@
+{
+  "name": "gulptest",
+  "description": "Gulp + Browserify + Watchfy + Reactify",
+  "version": "0.0.0",
+  "main": "gulpfile.js",
+  "author": "megakote",
+  "dependencies": {
+    "react": "^0.11.1"
+  },
+  "devDependencies": {
+    "browserify": "^5.9.1",
+    "gulp": "^3.8.6",
+    "gulp-notify": "^1.4.0",
+    "reactify": "^0.14.0",
+    "vinyl-source-stream": "^0.1.1",
+    "watchify": "^1.0.0"
+  }
+}
